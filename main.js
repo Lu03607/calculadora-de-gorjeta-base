@@ -4,6 +4,7 @@ let numberOfPeople = 0
 let buttonSelected = null
 
 function receiveBillValue() {
+    
     bill = document.querySelector("#bill").valueAsNumber
 }
 
